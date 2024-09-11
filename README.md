@@ -25,7 +25,7 @@
     <br>
     <!-- Python -->
     <a href="https://github.com/Orlando-H" target="_blank"><img alt="Python"
-                    src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+                    src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=React&logoColor=white">
     </a>
     <!-- C# -->
     <a href="https://github.com/Orlando-H" target="_blank"><img alt="C#"
