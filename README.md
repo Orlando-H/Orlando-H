@@ -35,13 +35,13 @@
     
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn)](https://www.linkedin.com/in/huerta-badilla-orlando-4347052b3/)
 [![](https://img.shields.io/badge/osu!-ff66ab?logo=osu)](https://osu.ppy.sh/users/22971277)
-<a href="mailto:dawntdev@gmail.com" target="_blank"><img alt="Gmail"
+<a href="mailto:orlandohuertab@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
-<a href="https://www.codewars.com/users/Dawnt" target="_blank"><img alt="CodeWars"
+<a href="https://www.codewars.com/users/Kntex" target="_blank"><img alt="CodeWars"
                 src="https://img.shields.io/badge/-CodeWars-B1361E?style=flat-square&logo=CodeWars&logoColor=white">
         </a>
-<a href="https://discord.gg/mexicodev" target="_blank"><img alt="Discord"
+<a href="" target="_blank"><img alt="nordics"
                 src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
         </a>
 
