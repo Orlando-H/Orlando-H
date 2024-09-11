@@ -33,7 +33,16 @@
 <img src="https://github.com/Orlando-H/Orlando-H/blob/main/assets/3AyY.gif" height="200" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/osu!-ff66ab?logo=osu)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn)](https://www.linkedin.com/in/huerta-badilla-orlando-4347052b3/)
+[![](https://img.shields.io/badge/osu!-ff66ab?logo=osu)](https://osu.ppy.sh/users/22971277)
+<a href="mailto:dawntdev@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+<a href="https://www.codewars.com/users/Dawnt" target="_blank"><img alt="CodeWars"
+                src="https://img.shields.io/badge/-CodeWars-B1361E?style=flat-square&logo=CodeWars&logoColor=white">
+        </a>
+<a href="https://discord.gg/mexicodev" target="_blank"><img alt="Discord"
+                src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
+        </a>
+
 </div>
