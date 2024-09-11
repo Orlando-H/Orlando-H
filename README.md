@@ -4,16 +4,6 @@
 <br>
 
 <p align="center">
-    <!-- Organisation  -->
-    <samp>
-            「 Do not stop 」
-            <br>
-            「 I am a software developer from <b>Mexico</b> 」
-            <br>
-            <br>
-    </samp>
-    <!-- Programming Languages -->
-    <!-- Code -->
     <a href="https://github.com/DawntDev?tab=repositories" target="_blank"><img alt="Code"
                     src="https://img.shields.io/badge/-> code-000000?style=flat-square">
     </a>
