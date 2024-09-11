@@ -42,7 +42,7 @@
                 src="https://img.shields.io/badge/-CodeWars-B1361E?style=flat-square&logo=CodeWars&logoColor=white">
         </a>
 <a href="" target="_blank"><img alt="nordics"
-                src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
+                src="https://img.shields.io/badge/-nordics-5865F2?style=flat-square&logo=Discord&logoColor=white">
         </a>
 
 </div>
