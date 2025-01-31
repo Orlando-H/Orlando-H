@@ -27,6 +27,9 @@
     <a href="https://github.com/Orlando-H" target="_blank"><img alt="Kotlin"
                     src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
     </a>
+    <a href="https://github.com/Orlando-H" target="_blank"><img alt="Angular"
+                    src="https://img.shields.io/badge/-Angular-7F52FF?style=flat-square&logo=Angular&logoColor=white">
+    </a>
 </p>
 <br>
 <br><br>
