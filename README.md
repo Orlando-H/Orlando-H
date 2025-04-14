@@ -42,8 +42,11 @@
 <br><br>
 <img src="https://github.com/Orlando-H/Orlando-H/blob/main/assets/3AyY.gif" height="200" />
 <br><br><br>
+
+<a href="https://www.linkedin.com/in/huerta-badilla-orlando-4347052b3/" target="_blank"><img alt="LinkedIn"
+                src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
     
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn)](https://www.linkedin.com/in/huerta-badilla-orlando-4347052b3/)
 [![](https://img.shields.io/badge/osu!-ff66ab?logo=osu)](https://osu.ppy.sh/users/22971277)
 <a href="mailto:orlandohuertab@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
