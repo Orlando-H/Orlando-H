@@ -30,6 +30,10 @@
     <a href="https://github.com/Orlando-H" target="_blank"><img alt="Angular"
                     src="https://img.shields.io/badge/-Angular-7F52FF?style=flat-square&logo=Angular&logoColor=white">
     </a>
+
+    <a href="https://github.com/Orlando-H" target="_blank"><img alt="NextJS"
+                    src="https://img.shields.io/badge/-Next-7F52FF?style=flat-square&logo=NextJS&logoColor=white">
+    </a>
 </p>
 <br>
 <br><br>
