@@ -7,28 +7,29 @@
                     src="https://img.shields.io/badge/-> code-000000?style=flat-square">
     </a>
     <a href="https://github.com/Orlando-H" target="_blank"><img alt="HTML"
-                    src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+                    src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     </a>
     <a href="https://github.com/Orlando-H" target="_blank"><img alt="CSS"
-                    src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+                    src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     </a>
     <a href="https://github.com/Orlando-H" target="_blank"><img alt="JavaScript"
-                    src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+                    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    </a>
     <a href="https://github.com/Orlando-H" target="_blank"><img alt="TypeScript"
-                    src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
+                    src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
     </a>
     <br>
     <a href="https://github.com/Orlando-H" target="_blank"><img alt="React"
-                    src="https://img.shields.io/badge/-React-3776AB?style=flat-square&logo=React&logoColor=white">
+                    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     </a>
-    <a href="https://github.com/Orlando-H" target="_blank"><img alt="C#"
-                    src="https://img.shields.io/badge/-C%23-9b3675?style=flat-square&logo=csharp&logoColor=white">
+    <a href="https://github.com/Orlando-H" target="_blank"><img alt="NodeJS"
+                    src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     </a>
     <a href="https://github.com/Orlando-H" target="_blank"><img alt="Kotlin"
-                    src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
+                    src="https://img.shields.io/badge/Kotlin-7424ff?style=for-the-badge&logo=Kotlin&logoColor=white">
     </a>
     <a href="https://github.com/Orlando-H" target="_blank"><img alt="Angular"
-                    src="https://img.shields.io/badge/-Angular-7F52FF?style=flat-square&logo=Angular&logoColor=white">
+                    src="https://img.shields.io/badge/Angular-fa0000?style=for-the-badge&logo=Angular&logoColor=white">
     </a>
     <a href="https://github.com/Orlando-H" target="_blank"><img alt="NextJS"
                     src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
