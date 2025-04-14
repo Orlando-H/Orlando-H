@@ -31,6 +31,12 @@
     <a href="https://github.com/Orlando-H" target="_blank"><img alt="NextJS"
                     src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
     </a>
+    <a href="https://github.com/Orlando-H" target="_blank"><img alt="Nginx"
+                    src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+    </a>
+    <a href="https://github.com/Orlando-H" target="_blank"><img alt="Docker"
+                    src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    </a>
 </p>
 <br>
 <br><br>
