@@ -47,9 +47,8 @@
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
     
-[![](https://img.shields.io/badge/osu!-ff66ab?logo=osu)](https://osu.ppy.sh/users/22971277)
 <a href="mailto:orlandohuertab@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+                src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
         </a>
 <a href="https://www.codewars.com/users/Kntex" target="_blank"><img alt="CodeWars"
                 src="https://img.shields.io/badge/-CodeWars-B1361E?style=flat-square&logo=CodeWars&logoColor=white">
