@@ -51,10 +51,9 @@
                 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
         </a>
 <a href="https://www.codewars.com/users/Kntex" target="_blank"><img alt="CodeWars"
-                src="https://img.shields.io/badge/-CodeWars-B1361E?style=flat-square&logo=CodeWars&logoColor=white">
+                src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
         </a>
 <a href="" target="_blank"><img alt="nordics"
-                src="https://img.shields.io/badge/-nordics-5865F2?style=flat-square&logo=Discord&logoColor=white">
+                src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
         </a>
-
 </div>
