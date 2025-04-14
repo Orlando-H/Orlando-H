@@ -3,9 +3,6 @@
 <br><br>
 <br>
 <p align="center">
-    <a href="https://github.com/Orlando-H" target="_blank"><img alt="Code"
-                    src="https://img.shields.io/badge/-> code-000000?style=flat-square">
-    </a>
     <a href="https://github.com/Orlando-H" target="_blank"><img alt="HTML"
                     src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     </a>
